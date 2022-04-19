@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Painter App</string>
+    <string name="background_image">background image</string>
+    <string name="change_brush_size">change brush size</string>
+    <string name="add_background_image">add background image</string>
+    <string name="undo_changes_button">undo changes button</string>
+</resources>
